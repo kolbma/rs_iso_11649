@@ -1,6 +1,6 @@
 [package]
 name = "iso_11649"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT OR Apache-2.0"
 authors = ["Markus Kolb"]
 edition = "2021"
@@ -9,7 +9,7 @@ description = "Implementation of ISO-11649 Financial services - Structured credi
 documentation = "https://docs.rs/iso_11649"
 homepage = "https://github.com/kolbma/iso_11649"
 repository = "https://github.com/kolbma/iso_11649"
-keywords = ["iso11649", "bank", "financial", "creditor", "reference", "payment"]
+keywords = ["iso11649", "financial", "creditor", "reference", "payment"]
 categories = ["parsing"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
