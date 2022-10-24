@@ -1,14 +1,14 @@
 [package]
 name = "iso_11649"
-version = "0.1.1"
+version = "0.1.2"
 license = "MIT OR Apache-2.0"
 authors = ["Markus Kolb"]
 edition = "2021"
 rust-version = "1.56"
 description = "Implementation of ISO-11649 Financial services - Structured creditor reference to remittance information"
 documentation = "https://docs.rs/iso_11649"
-homepage = "https://github.com/kolbma/iso_11649"
-repository = "https://github.com/kolbma/iso_11649"
+homepage = "https://github.com/kolbma/rs_iso_11649"
+repository = "https://github.com/kolbma/rs_iso_11649"
 keywords = ["iso11649", "financial", "creditor", "reference", "payment"]
 categories = ["parsing"]
 
